@@ -1,4 +1,4 @@
-## GISDD: An Comprehensive Global Integrated Sequence Database for Virus of DENV
+## GISDD
 
 Dengue virus (DENV), a mosquito-borne virus of the genus Flavivirus, has been considered an increase public health challenge worldwide, threating half of global population in over 125 countries.
 
