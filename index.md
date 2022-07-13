@@ -35,6 +35,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 南方医科大学热带医学研究所
 广东省广州市白云区沙太南路1023号
+
 Institute of Tropical Disease, Southern Medical University 
 1023 Shatainan, Guangzhou,Guangdong 510515,P.R. China
+
 This Database is supported by National Key R&D Plan (YFC1200100)
