@@ -1,8 +1,7 @@
 ## GISDD: An Comprehensive Global Integrated Sequence Database for Virus of DENV
 
-You can use the [editor on GitHub](https://github.com/GuoXiang9399/GISDD/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Dengue virus (DENV), a mosquito-borne virus of the genus Flavivirus, has been considered an increase public health challenge worldwide, threating half of global population in over 125 countries.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -34,4 +33,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+南方医科大学热带医学研究所
+广东省广州市白云区沙太南路1023号
+Institute of Tropical Disease, Southern Medical University 
+1023 Shatainan, Guangzhou,Guangdong 510515,P.R. China
+This Database is supported by National Key R&D Plan (YFC1200100)
